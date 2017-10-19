@@ -1,0 +1,9 @@
+.gradle/buildOutputCleanup/built.bin
+.gradle/buildOutputCleanup/cache.properties
+.gradle/buildOutputCleanup/cache.properties.lock
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
+.gradle/3.5-rc-2/file-changes/last-build.bin
+.gradle/3.5-rc-2/taskHistory/taskHistory.lock
